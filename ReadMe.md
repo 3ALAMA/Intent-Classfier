@@ -1,15 +1,17 @@
 ## this it intent classfier simple arabic Data using basic Nltk fucntion the calculate the number of occurence and put some weights to important words for Arabic restaurants inquiries 
 
-#### calsses
--information
--reservation system
--Menu
--offers
--prices
+calsses  |
+------------- |
+information  |
+reservation system  
+Menu |
+offers |
+prices |
 
 #### requierments
-1-NLTK libirary
-2-Python 3.6
+
+Markup : 1. NLTK libirary
+          2. Python 3.6
 
 
 #### how to use 
